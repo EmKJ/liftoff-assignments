@@ -9,4 +9,4 @@ We want to you to create a set of presentation slides summarizing your project.
 ### Presentation
 Upload a .PDF of your presentation here for review.
 
-[Project Presentation slides as pdf](/LiftOffDDESMICapstonePresentationTemplate.pdf)
+[Project Presentation slides as pdf](LiftOffDDESMICapstonePresentationTemplate.pdf)
